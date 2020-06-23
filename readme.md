@@ -4,7 +4,7 @@
   
 ## 📍 Index
 
-- [About the project](#About)
+- [About the project](#about)
 
 - [Applied technologies](#applied-technologies)
 
